@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../AppData/Local/Programs/Microsoft VS Code"
+		},
+		{
+			"name": "LAB_CONDITIONALS-1",
+			"path": "LAB_CONDITIONALS-1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
